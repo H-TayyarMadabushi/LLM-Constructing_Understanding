@@ -10,6 +10,9 @@ We review research related to both Construction Grammar (CxG) and Natural Langua
 ## Dataset
 
 * You can access to CoGs Dataset and the corresponding test set [HERE](https://github.com/H-TayyarMadabushi/Construction_Grammar_Schematicity_Corpus-CoGS)
+* The false positives that we use are available [HERE] (https://github.com/H-TayyarMadabushi/LLM-Constructing_Understanding/tree/main/Data)
+
+Please get in touch with us at htm43 AT bath DOT ac DOT UK if you have any questions or require any further information.
 
 
 ## Citation
