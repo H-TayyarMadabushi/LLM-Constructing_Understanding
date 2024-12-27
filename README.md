@@ -1,8 +1,9 @@
-# [Constructing understanding: on the constructional information encoded in large language models](https://link.springer.com/article/10.1007/s10579-024-09799-9#data-availability)
+# [Constructing understanding: on the constructional information encoded in large language models](https://link.springer.com/article/10.1007/s10579-024-09799-9)
 [Claire Bonial](https://aclanthology.org/people/c/claire-bonial/), [Harish Tayyar Madabushi](https://aclanthology.org/people/h/harish-tayyar-madabushi/)
 
 This repository contains the relevant data associated with the paper. 
-Read the [Paper Here](https://link.springer.com/article/10.1007/s10579-024-09799-9#data-availability)
+
+Read the [Paper Here](https://link.springer.com/article/10.1007/s10579-024-09799-9)
 
 ## Abstract
 
